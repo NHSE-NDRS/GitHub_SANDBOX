@@ -4,9 +4,8 @@ This document describes the guidlines for working on the Acme project.
 Please read this document carefuly before making any changes.
 
 1. Purpose of the Project
-The prupose of this project is to build a simple, relliable system that
-meets the needs of our suers. The system should be easy to use. The 
-system should be easy to maintain. The system should be easy easy to understand.
+This project aims to create a simple reliable system that meets user's needs. 
+It should be easy to use, maintain, and understand. 
 
 The system should be simple, and but not too simple.
 The system should be reliable, but not overally complicated.
