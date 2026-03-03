@@ -7,6 +7,7 @@ Please read this document carefuly before making any changes.
 This project aims to create a simple reliable system that meets user's needs. 
 It should be easy to use, maintain, and understand. 
 
+
 The system should be simple, and but not too simple.
 The system should be reliable, but not overally complicated.
 
