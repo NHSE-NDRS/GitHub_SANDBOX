@@ -1,6 +1,6 @@
 Project Guidelines (DRAFT)
 
-This document describes the guidlines for working on the Acme project.
+This document describes the guidelines for working on the Acme project.
 Please read this document carefuly before making any changes.
 
 1. Purpose of the Project
